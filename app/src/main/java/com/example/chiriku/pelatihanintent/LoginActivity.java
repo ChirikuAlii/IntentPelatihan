@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity {
                 else {
 
                     editTxtUsername.setText("");
-                    editTxtPassword.setText("")
+                    editTxtPassword.setText("");
 
                 }
 
